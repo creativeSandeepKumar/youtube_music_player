@@ -4,6 +4,7 @@ This project is a music player application built with Next.js, TypeScript, Tailw
 
 ## Features
 
+- **Before start using this music player**: Please upload some music first.
 - **Audio Upload**: Users can upload audio files. Metadata such as album, artist, duration, year, and album art are extracted automatically.
 - **View Modes**: Toggle between a table view and a grid view to display the audio list.
 - **Audio Playback**: Play audio with a music player interface, including controls for play, pause, next, and previous.
