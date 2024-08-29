@@ -15,6 +15,9 @@ This project is a music player application built with Next.js, TypeScript, Tailw
 
 Add screenshots of your project in action to help users understand what to expect. Place your screenshots in the `public/screenshots` directory and link them here.
 
+### Example Screenshot 1: When Not any music is added
+![Home Page](public/screen-3.png)
+
 ### Example Screenshot 1: Grid View
 ![Home Page](public/screen-1.png)
 
@@ -36,4 +39,4 @@ Add screenshots of your project in action to help users understand what to expec
 - **Node.js**: Ensure you have Node.js installed. You can download it from [here](https://nodejs.org/).
 - **npm or yarn**: npm is installed with Node.js. You can install yarn globally using npm if preferred:
   ```bash
-  npm install -g yarn
+  npm install
