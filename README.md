@@ -14,8 +14,6 @@ This project is a music player application built with Next.js, TypeScript, Tailw
 
 ## Screenshots
 
-Add screenshots of your project in action to help users understand what to expect. Place your screenshots in the `public/screenshots` directory and link them here.
-
 ### Example Screenshot 1: When Not any music is added
 ![Home Page](public/screen-3.png)
 
